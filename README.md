@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Abdul, 32 years old from India.
-- 👀 I have started coding world recently although my current field of work is different.
+- 👋 Hi, I’m Abdul, 31 years old from India.
+- 👀 I have started coding recently although my current field of work is different.
 - 🌱 Right now I am learning web development from Angela Yu on Udemy.
 - 💞 I would love to work on some projects to boost my learning speed as well as learning new stuff.
 - 📫 webark13 is my github user-id. Anybody can contact me who needs an ethuastic newbie for their project.(Side Note: I am willing to work for free.)
